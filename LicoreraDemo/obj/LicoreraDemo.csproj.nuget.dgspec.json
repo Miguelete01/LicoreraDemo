@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Miguel\\source\\repos\\LicoreraDemo\\LicoreraDemo\\LicoreraDemo.csproj": {}
+    "C:\\Users\\Miguel\\Documents\\Proyectos\\Licorera\\LicoreraDemo\\LicoreraDemo\\LicoreraDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Miguel\\source\\repos\\LicoreraDemo\\LicoreraDemo\\LicoreraDemo.csproj": {
+    "C:\\Users\\Miguel\\Documents\\Proyectos\\Licorera\\LicoreraDemo\\LicoreraDemo\\LicoreraDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Miguel\\source\\repos\\LicoreraDemo\\LicoreraDemo\\LicoreraDemo.csproj",
+        "projectUniqueName": "C:\\Users\\Miguel\\Documents\\Proyectos\\Licorera\\LicoreraDemo\\LicoreraDemo\\LicoreraDemo.csproj",
         "projectName": "LicoreraDemo",
-        "projectPath": "C:\\Users\\Miguel\\source\\repos\\LicoreraDemo\\LicoreraDemo\\LicoreraDemo.csproj",
+        "projectPath": "C:\\Users\\Miguel\\Documents\\Proyectos\\Licorera\\LicoreraDemo\\LicoreraDemo\\LicoreraDemo.csproj",
         "packagesPath": "C:\\Users\\Miguel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Miguel\\source\\repos\\LicoreraDemo\\LicoreraDemo\\obj\\",
+        "outputPath": "C:\\Users\\Miguel\\Documents\\Proyectos\\Licorera\\LicoreraDemo\\LicoreraDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Miguel\\AppData\\Roaming\\NuGet\\NuGet.Config",

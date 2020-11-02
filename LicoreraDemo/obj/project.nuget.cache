@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TKwHZ43I8mLWokPYeaXxsnlQz0GqQL239GsioClGazcI3tTpZJLIPYUNaT00FnKqLePkCLFcvqY2mbGPvINtYQ==",
+  "dgSpecHash": "RStw5irMMwokNUL2AZ22y7n3e/ox2YS49HSPBolNzb6gsXuXDDRe7LerWknnzrtHsQ8tXuJt6Eks422cPD7haQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Miguel\\source\\repos\\LicoreraDemo\\LicoreraDemo\\LicoreraDemo.csproj",
+  "projectFilePath": "C:\\Users\\Miguel\\Documents\\Proyectos\\Licorera\\LicoreraDemo\\LicoreraDemo\\LicoreraDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Miguel\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\Miguel\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

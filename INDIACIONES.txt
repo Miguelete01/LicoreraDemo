@@ -1,0 +1,65 @@
+1- Aplique las migraciones y se le cargaran datos por defecto para hacer sus pruebas
+2- SQL SERVER 2018
+3- NO ES NECESARIO CAMBIAR LA URL, DE SER ASI CAMBIARLA EN EL ARCHIVO appsettings.json EN LA RAIZ
+	DevConnection, reemplace el . por su servidor
+4- EJECUTE EL PROGRAMA
+
+JSON DE PRUEBA PARA LA FACTURA
+{
+    "clienteId": 2,
+    "noFactura": "F0004",
+    "fecha": "2020-11-01T00:00:00",
+    "cliente": null,
+    "detalleFactura": [
+        {
+            "productoId": 1,
+            "tasaCambioId": 1,
+            "cantidad": 2
+        },
+        {
+            "productoId": 2,
+            "tasaCambioId": 1,
+            "cantidad": 1
+        },
+        {
+            "productoId": 2,
+            "tasaCambioId": 1,
+            "cantidad": 1
+        }
+    ]
+}
+ENPOINTS
+CLIENTE
+// GET: api/Cliente -> Lista
+// GET: api/Cliente/{id}
+// GET: api/Cliente/nombre/{nombre}
+// PUT: api/CLIENTE/{id}
+// DELETE: api/Cliente/{id}
+PRODUCTO
+// GET: api/Productoes/activos
+// GET: api/Producto -> Lista
+// GET: api/Producto/Buscar/{valor} -> valor {Dell}
+// GET: api/Producto/{id}
+// PUT: api/Producto/{id}
+// POST: api/Producto
+// DELETE: api/Producto/{id}
+TASA CAMBIO
+// GET: api/TasaCambio -> Lista 
+// GET: api/TasaCambio/TasaDiaria
+// GET: api/TasaCambio/TasaDiaria/{fecha}
+// GET: api/TasaCambio/TasaMes
+// GET: api/TasaCambio/TasaMes/{fecha}
+// GET: api/TasaCambio/{id}
+// PUT: api/TasaCambio/{id}
+// POST: api/TasaCambio
+// DELETE: api/TasaCambio/{id}
+FACTURA
+// GET: api/Facturas/Detalle
+// GET: api/Facturas/FacturasClienteId/1
+// GET: api/Facturas/FacturasNo/F0001
+// GET: api/Facturas/ReporteMensual/{mes}
+// GET: api/Facturas/{id}
+// PUT: api/Facturas/{id}
+// POST: api/Facturas   -> INSERTA Y MODIFICA
+// DELETE: api/Facturas/{id}
+
